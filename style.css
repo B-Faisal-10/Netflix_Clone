@@ -312,16 +312,16 @@ nav img {
     .secImg img{
         width: 260px; 
     }
-    .secImg video {
-        position: absolute;
-        top: 62px;
-        right: 2px;
-        width: 235px;
-        height: 50%;
-        object-fit: cover;
-        z-index: 1;
-        overflow: hidden;
-    }
+   .secImg video {
+    position: absolute;
+    top: 60px;
+    right: 2px;
+    width: 224px;
+    height: 48%;
+    object-fit: cover;
+    z-index: 1;
+    overflow: hidden;
+}
     .hero >:nth-child(1){
         font-family: 'Poppins', sans-serif;
         font-weight: 700;
