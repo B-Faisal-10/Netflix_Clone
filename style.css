@@ -346,6 +346,10 @@ nav img {
         gap: 16px;
     }
 
+    .hero-buttons{
+        color: white
+    }
+
     section.first > div :first-child {
         font-size: 28px;
         font-weight: bolder;
