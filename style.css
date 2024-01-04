@@ -116,7 +116,7 @@ nav button{
 }
 
 .main input{
-    color:white;
+    color:white !important;
     padding: 7px 101px 8px 14px;
     font-weight: 900;
     font-size: 12px;
@@ -246,7 +246,6 @@ nav img {
 }
 
 .main input {
-    color:white;
     padding: 8px 70px 10px 22px;
     font-weight: 900;
     font-size: 12px;
